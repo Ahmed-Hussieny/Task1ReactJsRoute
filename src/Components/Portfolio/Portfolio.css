@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+}
+
+.color,
+.coll {
+    color: #2c3e50;
+}
+
+.onel {
+    margin-left: 10px;
+}
+
+.oner {
+    margin-right: 10px;
+}
+
+.line {
+    height: 5px;
+    background-color: #2c3e50;
+    width: 70px;
+}
+
+.dis {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fs {
+    font-size: 100px;
+}
+
+.cover {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-color: #1abc9c;
+    opacity: 0;
+    transition: all 1s;
+    border-radius: 15px;
+
+}
+
+.porItem {
+    margin: 15px;
+    position: relative;
+}
+
+.porItem,
+.porItem img {
+    border-radius: 15px;
+}
+
+.cover:hover {
+    /* display: none; */
+    opacity: 1;
+
+
+}

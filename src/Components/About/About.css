@@ -1,0 +1,28 @@
+.main {
+    background-color: #1abc9c !important;
+}
+
+.onel {
+    margin-left: 10px;
+}
+
+.oner {
+    margin-right: 10px;
+}
+
+.linee {
+    height: 5px;
+    background-color: #ffffff;
+    /* Line color */
+    width: 70px;
+}
+
+.dis {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pp {
+    font-size: 18px;
+}

@@ -1,0 +1,29 @@
+.up {
+    transition: all 1s;
+    text-align: left;
+}
+
+.bggg {
+    color: #1abc9c;
+    ;
+}
+
+input {
+    width: 50%;
+}
+
+.btn-successs {
+    background-color: #1abc9c !important;
+    color: white !important;
+
+}
+
+.btnnn {
+    display: flex;
+    justify-content: start;
+
+}
+
+input {
+    box-shadow: 0px 0px transparent !important;
+}

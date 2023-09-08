@@ -1,0 +1,32 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.main {
+    background-color: #1abc9c !important;
+}
+
+.onel {
+    margin-left: 10px;
+}
+
+.oner {
+    margin-right: 10px;
+}
+
+.lineee {
+    height: 4px;
+    background-color: #ffffff;
+    /* Line color */
+    width: 70px;
+}
+
+.dis {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
